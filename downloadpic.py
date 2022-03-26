@@ -4,3 +4,4 @@ target = temp.content
 with open ('download.jpg','wb') as f:
     f.write(target)
    
+
